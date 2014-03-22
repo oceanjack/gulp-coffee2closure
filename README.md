@@ -1,4 +1,4 @@
-# [gulp](http://gulpjs.com)-coffee2closure [![Build Status](https://secure.travis-ci.org/steida/gulp-coffee2closure.png?branch=master)](http://travis-ci.org/steida/gulp-coffee2closure)
+# [gulp](http://gulpjs.com)-coffee2closure [![Build Status](https://secure.travis-ci.org/steida/gulp-coffee2closure.png?branch=master)](http://travis-ci.org/steida/gulp-coffee2closure) [![Dependency Status](https://david-dm.org/steida/gulp-coffee2closure.png)](https://david-dm.org/steida/gulp-coffee2closure) [![devDependency Status](https://david-dm.org/steida/gulp-coffee2closure/dev-status.png)](https://david-dm.org/steida/gulp-coffee2closure#info=devDependencies)
 
 > gulp plugin fixing CoffeeScript compiled output for Google Closure Compiler
 
