@@ -28,14 +28,14 @@
     "gulpplugin"
   ],
   "dependencies": {
-    "gulp-util": "^2.2.14",
-    "through2": "^0.4.1",
-    "coffee2closure": "^0.1.3"
+    "coffee2closure": "^0.1.3",
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
   },
   "devDependencies": {
-    "mocha": "*",
-    "gulp": "^3.5.6",
     "event-stream": "^3.1.0",
-    "vinyl": "^0.2.3"
+    "gulp": "^3.5.6",
+    "mocha": "*",
+    "vinyl": "^0.3.2"
   }
 }
