@@ -1,6 +1,6 @@
 {
   "name": "gulp-coffee2closure",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulp plugin fixing CoffeeScript compiled output for Google Closure Compiler",
   "license": "MIT",
   "repository": {
